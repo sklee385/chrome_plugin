@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "adsound 네이버 맞춤법 창 조절",
+  "description": "adsound 네이버 맞춤법 창 조절",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "pencil.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
